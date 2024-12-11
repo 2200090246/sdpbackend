@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.Map;
 import java.util.Optional;
 
-@CrossOrigin(origins = "https://67594a32b5cc8100080ecd07--eduerp.netlify.app")
+@CrossOrigin(origins = "https://jfsdrenderfront.onrender.com")
 @RestController
 @RequestMapping("/api/auth")
 public class AuthController {
